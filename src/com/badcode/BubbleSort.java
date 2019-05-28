@@ -3,7 +3,7 @@ package com.badcode;
 import java.util.Arrays;
 
 /**
- * @author Srd
+ * @author BadCode
  * @title: BubbleSort   冒泡排序
  * @date 2019/5/28  11:43
  */
